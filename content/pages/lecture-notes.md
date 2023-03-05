@@ -13,4 +13,4 @@ Lectures 4, 5, 6:   Quadratic Solvability; Query Reduction via the Sum-check Pr
 
 Lectures 6 & 7: Low Degree Testing;  Analysis of the Plane versus Plane Test
 
-Lectures 7 & 8: Low Degree Testing; Analysis of the Plane versus Plane Test   \<-
+Lectures 7 & 8: Low Degree Testing; Analysis of the Plane versus Plane Test   \<-REPEAT OF 6 & 7??
