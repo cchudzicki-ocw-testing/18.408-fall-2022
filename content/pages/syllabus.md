@@ -23,7 +23,10 @@ In this course, we will present the theory of PCPs, prove some fundamental conse
 
 Material from other courses in Probabilistically Checkable Proofs can be found online in various places; for example: 
 
-[NYULinks to an external site.](https://cs.nyu.edu/~khot/PCP-Spring20.html), [MIT/ Weizmann,](https://people.csail.mit.edu/dmoshkov/courses/pcp/index.html#:~:text=Course%20Summary,of%20queries%20to%20the%20proof.) [BerkeleyLinks to an external site.](https://people.eecs.berkeley.edu/~alexch/classes/CS294-F2020.html), and even notes from a previous iteration of this course in [Tel Aviv.](https://sites.google.com/site/apcpproof/) 
+- [*Hardness of Approximation: PCP Theorem to 2-to-2 Games Theorem*](https://cs.nyu.edu/~khot/PCP-Spring20.html) online course by Subhash Khot, NYU
+- [*Probabilistically Checkable Proofs*](https://people.csail.mit.edu/dmoshkov/courses/pcp/index.html#:~:text=Course%20Summary,of%20queries%20to%20the%20proof.) online course by Irit Dinur and Dana Moshkovitz, Weizmann Institute of Science
+- [*Foundations of Probabilistic Proofs*](https://people.eecs.berkeley.edu/~alexch/classes/CS294-F2020.html) online course by Alessandro Chiesa, Berkeley
+- Notes from a previous iteration of this course in [Tel Aviv](https://sites.google.com/site/apcpproof/)   **\<- Link doesn't work**
 
 #### Grading 
 
