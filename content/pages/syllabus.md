@@ -5,7 +5,11 @@ draft: false
 title: SYLLABUS
 uid: 9a63cebe-0406-44ba-8c3b-7f9e3e7c0b04
 ---
-Lectures: Tuesday & Thursday, 11:00 - 12:30 EST, room 4-145. 
+### Course Meeting Times
+
+Lectures: 2 sessions / week, 1.5 hours / session
+
+### Course Description
 
 The topic of this course is Probabilistically Checkable Proofs (PCPs), with emphasis on their applications in hardness of approximation. 
 
