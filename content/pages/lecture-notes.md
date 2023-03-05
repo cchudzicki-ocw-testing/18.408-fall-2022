@@ -7,15 +7,17 @@ uid: 7ee7fd9a-f929-4e13-8d61-79dbfe4e14f5
 ---
 Lecture 1: Introduction
 
-Lectures 2, 3, 4: Error Correcting Codes
+Lectures 2, 3, 4: Error Correcting Codes  **\\\\\\\\\<- Should it include 4?  see filename**
 
 Lectures 4, 5, 6:   Quadratic Solvability; Query Reduction via the Sum-check Protocol and Low-degree Extensions
 
 Lectures 6 & 7: Low Degree Testing;  Analysis of the Plane versus Plane Test
 
-Lectures 7 & 8: Low Degree Testing; Analysis of the Plane versus Plane Test   \\\\\\\<-REPEAT OF 6 & 7??
+Lectures 7 & 8: Low Degree Testing; Analysis of the Plane versus Plane Test   **\\\\\\\\\<-REPEAT OF 6 & 7??**
 
 Lecture 8: A PCP with poly(log *n*) Queries; Formalizations of PCPs
+
+Lecture 9: A PCP with poly(log n) Queries; Formalizations of PCPs  **\\\\\\\\\<-REPEAT OF 8??**
 
 Lectures 10 & 11:  Hadamard and Quadratic Hadamard Codes; Going from Theorem 1.1 to Theorem 1.2 via the Quadratic Hadamard Code?; The Composition Technique
 
