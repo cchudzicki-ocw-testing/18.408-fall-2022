@@ -27,7 +27,7 @@ Material from other courses in Probabilistically Checkable Proofs can be found o
 
 #### Grading 
 
-There will be 3-5 problem sets during the course, and the final grade in the course will be an average of your grade in the problem sets. 
+There will be 5 problem sets during the course, and the final grade in the course will be an average of your grade in the problem sets. 
 
 *Starred and non-starred problems:*
 
@@ -41,6 +41,6 @@ The problem sets will contain problems of normal difficulty, as well as more cha
 
 *Submission*
 
-(1) Solutions to problem sets are to be typed in LATEX and submitted as a PDF file. Please name your file as ps#\_Lastname\_Firstname.pdf, and remember to include your name in each file. 
+(1) Solutions to problem sets are to be typed in LATEX and submitted as a PDF file. 
 
 (2) The submission deadline for each problem set will be mentioned in the problem set itself. Late submission will result in penalized score of 20% reduction per day. That is, a submission late in 2 days that is graded x points will actually be given 0.6 x points. No fractional reductions.
