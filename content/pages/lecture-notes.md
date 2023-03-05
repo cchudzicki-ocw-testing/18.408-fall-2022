@@ -13,7 +13,7 @@ Lectures 4, 5, 6:   Quadratic Solvability; Query Reduction via the Sum-check Pr
 
 Lectures 6 & 7: Low Degree Testing;  Analysis of the Plane versus Plane Test
 
-Lectures 7 & 8: Low Degree Testing; Analysis of the Plane versus Plane Test   \\\\\<-REPEAT OF 6 & 7??
+Lectures 7 & 8: Low Degree Testing; Analysis of the Plane versus Plane Test   \\\\\\\<-REPEAT OF 6 & 7??
 
 Lecture 8: A PCP with poly(log *n*) Queries; Formalizations of PCPs
 
@@ -23,6 +23,10 @@ Lecture 12: Aggregation of Queries; Some More Words on Composition
 
 Lecture 13: The Label Cover Problem; Hardness of Approximating the Maximum Clique; Extreme Versions of the PCP Theorem
 
-Lecture 14 & 15: Gap Amplification via Parallel Repetition; On the Proof of the Parallel Repetition Theorem
+Lectures 14 & 15: Gap Amplification via Parallel Repetition; On the Proof of the Parallel Repetition Theorem
 
 Lecture 16: The Set-cover Problem; A Reduction form Label-cover to Set-cover
+
+Lectures 17-20: Tight Inapproximability Results: Introduction; Designing a Dictatorship Test for 3Lin; Utilizing the Long-code Encoding in PCPs; NP-hardness of 3Lin: the Proof of Theorem 1.1
+
+Lecture 21: On the Structure of the Constraints in Label Cover; The *d*\-to-1 and the Unique-Games Conjectures; The Max-cut Problem
