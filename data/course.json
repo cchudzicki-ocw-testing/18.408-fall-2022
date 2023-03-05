@@ -1,0 +1,34 @@
+{
+  "term": "Fall",
+  "year": "2022",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "topics-in-theoretical-computer-science-probabilistically-checkable-proofs"
+  },
+  "course_image": {
+    "content": "",
+    "website": "topics-in-theoretical-computer-science-probabilistically-checkable-proofs"
+  },
+  "course_title": "Topics in Theoretical Computer Science: Probabilistically Checkable Proofs",
+  "course_description": "",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.408",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "topics-in-theoretical-computer-science-probabilistically-checkable-proofs"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "08b81d7a-126f-4758-ab6c-89b7cb975ce0",
+  "site_short_id": "18.408-fall-2022"
+}
