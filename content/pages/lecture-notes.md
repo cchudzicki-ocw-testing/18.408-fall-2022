@@ -7,17 +7,13 @@ uid: 7ee7fd9a-f929-4e13-8d61-79dbfe4e14f5
 ---
 Lecture 1: Introduction
 
-Lectures 2, 3, 4: Error Correcting Codes  **\\\\\\\\\<- Should it include 4?  see filename**
+Lectures 2 & 3: Error Correcting Codes
 
-Lectures 4, 5, 6:   Quadratic Solvability; Query Reduction via the Sum-check Protocol and Low-degree Extensions
+Lectures 4 - 6:   Quadratic Solvability; Query Reduction via the Sum-check Protocol and Low-degree Extensions
 
-Lectures 6 & 7: Low Degree Testing;  Analysis of the Plane versus Plane Test
+Lectures 7 & 8: Low Degree Testing;  Analysis of the Plane versus Plane Test
 
-Lectures 7 & 8: Low Degree Testing; Analysis of the Plane versus Plane Test   **\\\\\\\\\<-REPEAT OF 6 & 7??**
-
-Lecture 8: A PCP with poly(log *n*) Queries; Formalizations of PCPs
-
-Lecture 9: A PCP with poly(log n) Queries; Formalizations of PCPs  **\\\\\\\\\<-REPEAT OF 8??**
+Lecture 9: A PCP with poly(log n) Queries; Formalizations of PCPs 
 
 Lectures 10 & 11:  Hadamard and Quadratic Hadamard Codes; Going from Theorem 1.1 to Theorem 1.2 via the Quadratic Hadamard Code?; The Composition Technique
 
@@ -29,6 +25,8 @@ Lectures 14 & 15: Gap Amplification via Parallel Repetition; On the Proof of the
 
 Lecture 16: The Set-cover Problem; A Reduction form Label-cover to Set-cover
 
-Lectures 17-20: Tight Inapproximability Results: Introduction; Designing a Dictatorship Test for 3Lin; Utilizing the Long-code Encoding in PCPs; NP-hardness of 3Lin: the Proof of Theorem 1.1
+Lectures 17 - 20: Tight Inapproximability Results: Introduction; Designing a Dictatorship Test for 3Lin; Utilizing the Long-code Encoding in PCPs; NP-hardness of 3Lin: the Proof of Theorem 1.1
 
 Lecture 21: On the Structure of the Constraints in Label Cover; The *d*\-to-1 and the Unique-Games Conjectures; The Max-cut Problem
+
+Lectures 22 & 23: The Long-code Framework, Influence Style; A Reduction from Unique-games to Max-cut
