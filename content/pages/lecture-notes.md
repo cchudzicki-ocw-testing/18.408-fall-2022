@@ -9,7 +9,7 @@ Lecture 1: Introduction (PDF)
 
 Lectures 2 & 3: Error Correcting Codes (PDF)
 
-Lectures 4–6:   Quadratic Solvability, Low-degree Extensions and the Sum-check Protocol (PDF)
+Lectures 4–6:  Quadratic Solvability, Low-degree Extensions and the Sum-check Protocol (PDF)
 
 Lectures 7 & 8: Low Degree Testing (PDF)
 
