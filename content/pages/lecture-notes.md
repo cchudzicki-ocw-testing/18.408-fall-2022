@@ -15,7 +15,7 @@ Lectures 7 & 8: Low Degree Testing (PDF)
 
 Lecture 9: A PCP with polylog Many Queries and Formalizations of PCPs (PDF) 
 
-Lectures 10 & 11:  Composition (PDF)
+Lectures 10 & 11:  Hadamard and Quadratic Hadamard Codes; The Composition Technique (PDF)
 
 Lecture 12: Aggregation of Queries (PDF)
 
