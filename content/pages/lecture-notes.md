@@ -15,18 +15,18 @@ Lectures 7 & 8: Low Degree Testing (PDF)
 
 Lecture 9: A PCP with polylog Many Queries and Formalizations of PCPs (PDF) 
 
-Lectures 10 & 11:  Composition
+Lectures 10 & 11:  Composition (PDF)
 
-Lecture 12: Aggregation of Queries
+Lecture 12: Aggregation of Queries (PDF)
 
-Lecture 13: Hardness of Approximating the Maximum Clique
+Lecture 13: Hardness of Approximating the Maximum Clique (PDF)
 
-Lectures 14 & 15: The Parallel Repetition and Hardness of Set-Cover
+Lectures 14 & 15: The Parallel Repetition Theorem (PDF)
 
-Lecture 16: The Set-cover Problem; A Reduction form Label-cover to Set-cover
+Lecture 16: The Set-cover Problem and A Reduction from Label-cover to Set-cover (PDF)
 
-Lectures 17–20: The Long-code Paradigm and Some Optimal Inapproximability Results
+Lectures 17–20: The Long-code Paradigm and Some Optimal Inapproximability Results (PDF)
 
-Lecture 21: On the Structure of the Constraints in Label Cover; The *d*\-to-1 and the Unique-Games Conjectures; The Max-cut Problem
+Lecture 21: The Unique-Games Conjecture and the Goemans-Williamson Algorithm (PDF)
 
-Lectures 22 & 23: The Long-code Framework, Influence Style; A Reduction from Unique-games to Max-cut
+Lectures 22 & 23: Unique-Games Hardness of Max-cut (PDF)
