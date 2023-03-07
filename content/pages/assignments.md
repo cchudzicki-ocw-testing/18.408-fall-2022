@@ -23,12 +23,12 @@ The problem sets will contain problems of normal difficulty, as well as more cha
 
 (2) The submission deadline for each problem set will be mentioned in the problem set itself. Late submission will result in penalized score of 20% reduction per day. That is, a submission late in 2 days that is graded x points will actually be given 0.6 x points. No fractional reductions.
 
-Problem Set 1
+{{% resource_link "20676f26-93c6-48c7-a3f8-3fa96fbf6637" "Problem Set 1 (PDF)" %}}
 
-Problem Set 2
+{{% resource_link "6cec4962-136c-40a9-8009-0ac1d00e4626" "Problem Set 2 (PDF)" %}}
 
-Problem Set 3
+{{% resource_link "c4e1f75d-166c-40b8-ae32-6e6d7a16388d" "Problem Set 3 (PDF)" %}}
 
-Problem Set 4
+{{% resource_link "a108c076-cdc8-4208-9724-21859588ea7b" "Problem Set 4 (PDF)" %}}
 
-Problem Set 5
+{{% resource_link "88710e61-e300-4267-9732-fcbe3f088880" "Problem Set 5 (PDF)" %}}
