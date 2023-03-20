@@ -11,7 +11,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 #### Prerequisites
 
-Permission of instructor
+MIT students need permission of instructor.
 
 #### Course Description
 
