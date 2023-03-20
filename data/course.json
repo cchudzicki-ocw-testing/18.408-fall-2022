@@ -4,7 +4,21 @@
   "level": [
     "Graduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [
