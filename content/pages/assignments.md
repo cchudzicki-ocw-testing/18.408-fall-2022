@@ -7,7 +7,7 @@ uid: cedf0ca1-d44a-429f-9f09-21979557a06a
 ---
 There will be 5 problem sets during the course, and the final grade in the course will be an average of your grade in the problem sets. 
 
-### Starred and Non-starred Problems
+### Starred and Non-Starred Problems
 
 The problem sets will contain problems of normal difficulty, as well as more challenging problems that will be marked with a star (\*). Solving all normal difficulty problems is enough in order to get an A-, but to get an A or A+ requires solving a substantial number of starred problems. 
 
