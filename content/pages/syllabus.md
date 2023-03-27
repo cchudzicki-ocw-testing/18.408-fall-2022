@@ -5,15 +5,15 @@ draft: false
 title: Syllabus
 uid: 9a63cebe-0406-44ba-8c3b-7f9e3e7c0b04
 ---
-#### Course Meeting Times
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-#### Prerequisites
+## Prerequisites
 
 MIT students need permission of instructor.
 
-#### Course Description
+## Course Description
 
 The topic of this course is Probabilistically Checkable Proofs (PCPs), with emphasis on their applications in hardness of approximation. 
 
@@ -27,6 +27,6 @@ Material from other courses in Probabilistically Checkable Proofs can be found o
 - [*Probabilistically Checkable Proofs*](https://people.csail.mit.edu/dmoshkov/courses/pcp/index.html#:~:text=Course%20Summary,of%20queries%20to%20the%20proof.) online course by Irit Dinur and Dana Moshkovitz, Weizmann Institute of Science
 - [*Foundations of Probabilistic Proofs*](https://people.eecs.berkeley.edu/~alexch/classes/CS294-F2020.html) online course by Alessandro Chiesa, Berkeley
 
-#### Grading 
+## Grading 
 
 There will be 5 problem sets during the course, and the final grade in the course will be an average of your grade in the problem sets.
