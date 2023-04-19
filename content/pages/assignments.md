@@ -18,8 +18,8 @@ The problem sets will contain problems of normal difficulty, as well as more cha
 
 ## Submission
 
-1. Solutions to problem sets are to be typed in LATEX and submitted as a PDF file. 
-2. The submission deadline for each problem set will be mentioned in the problem set itself. Late submission will result in penalized score of 20% reduction per day. That is, a submission late in 2 days that is graded x points will actually be given 0.6 x points. No fractional reductions.
+1. Solutions to problem sets are to be typed in LaTeX and submitted as a PDF file. 
+2. The submission deadline for each problem set will be mentioned in the problem set itself. Late submission will result in penalized score of 20% reduction per day. That is, a submission late in 2 days that is graded *x* points will actually be given 0.6*x* points. No fractional reductions.
 
 ## Problem Sets
 
